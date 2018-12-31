@@ -620,10 +620,10 @@ public class CustomReporterBuildSummary extends CustomReporterListener {
 		m_out.println(
 				"<tr><td bgcolor='white' colspan='4'> <table border='0' width='100%' bgcolor='#e6f7ff'><tr>"
 				+ "<td  width='25%'  bgcolor='white'>"
-				+ "<center><img width='150px' src='https://www.kiwiqa.com/wp-content/uploads/2017/06/KiwiQA_option2.png'/></center>"
-				+ "</td><td ><center><font color='#008bcc'><b><h1>OWLS Automation Test Cases Analysis</h1></b></font></center></td> "
+				+ "<center><img width='150px' src='https://infovinity.com/wp-content/uploads/2017/11/hight_res_transparent_logo.png'/></center>"
+				+ "</td><td ><center><font color='#008bcc'><b><h1>3DBroadCastSales Automation Test Cases Analysis</h1></b></font></center></td> "
 				+ "<td width='25%' bgcolor='white'>"
-				+ "<center><img width='150px' src='http://www.genixventures.com/wp-content/uploads/2015/05/genix_logo_03.png'/></center></td> "
+				+ "<center><img width='150px' src='https://staging.3dbroadcastsales.com/pub/media/logo/default/3D_Broadcast_Ltd_Final_Logo_1_300.png'/></center></td> "
 				+ "</tr></table> </td></tr>");
 		//m_out.println("<tr><td colspan='4'>To view Full Report : <a href=\"http://localhost:8080/job/Videogram/HTML_Report/\">http://localhost:8080/job/Videogram_Chrome/HTML_Report</a></td></tr>");
 		m_out.println("<tr><td colspan='4'>Overall test suite completion : <b>"
@@ -1142,7 +1142,7 @@ public class CustomReporterBuildSummary extends CustomReporterListener {
 	/** Finishes HTML stream */
 	protected void endHtml(PrintWriter out) {
 		//out.println("<center> Report customized by KiwiQA </center><br/><br/>");
-		out.println("<tr bgcolor='SkyBlue'><td align='right' colspan='4'><center><b><i>Report customized by KiwiQA </i><b><center></center></b></b></center></td></tr>");
+		out.println("<tr bgcolor='SkyBlue'><td align='right' colspan='4'><center><b><i>Report customized by Infovinity </i><b><center></center></b></b></center></td></tr>");
 		out.println("</body></html>");
 	}
 
