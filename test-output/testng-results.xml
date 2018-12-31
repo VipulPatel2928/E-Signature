@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<strong> <h3 style="color:DarkViolet"> To verify that user is able to login with valid credentials</h3> </strong>]]>
+    </line>
+    <line>
+      <![CDATA[<strong> <h3 style="color:DarkViolet"> --------------------------------------------------------------------------</h3> </strong>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 1. open : https://go-env-syd9.clickandsign.net:19443/dashboard/</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--->  Home page is open  <---]]>
+    </line>
+    <line>
+      <![CDATA[</br><br><Strong><font color=#008000>Pass</font></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 2. Enter Username</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> Enter Username :sy1-dev09-owner@e-signsolutions.com<---]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 3. Enter Password</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> Enter password :N#abe7dd95b55c1d635349395d8d9244<---]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 4. Click on Login Button</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> clicked on Login Button <---]]>
+    </line>
+    <line>
+      <![CDATA[</br>Logged in successfully!!]]>
+    </line>
+    <line>
+      <![CDATA[</br><br><Strong><font color=#008000>Pass</font></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 5. Select the Workflow</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> Selected the work Flow:IBM Digital Contracts Demo v. 1 <---]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 6. Click on Create button</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> clicked on Create Button <---]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 7. Enter Package Reference</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> Enter Packagereference :Packagereference_fgmU <---]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 8. Enter First Name</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> Enter First Name :FirstnamemlOH <---]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 9. Enter Last Name</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> Enter Last Name :LastnameMOLj <---]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 10. Enter Email Address</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> Enter Email Address :GJZz@mailinator.com <---]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 11. Enter Phone Number</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> Enter Phone Number : +61444444444 <---]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 12. Select WAFR Attachments</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>Number of Documents Attached :4]]>
+    </line>
+    <line>
+      <![CDATA[</br>Number of Options for the Attachment :5]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 13. Click on Create Button</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> clicked on Create Button <---]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 14. Click on Cloud Service Agreement</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> clicked on Cloud Service Aggrement <---]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 15. Upload the Cloud Service Agreement</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> Uploaded the Aggrement <---]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 16. Click on SendNow Button</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> Clicked on SendNow button <---]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 17. Confirm the package with valid details</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><Strong><font color=#009000>--> package name is confirmed <--</font></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>-->  Attached Documents : Certificate of Insurance 1 * <--]]>
+    </line>
+    <line>
+      <![CDATA[</br>-->  Attached Documents : Certificate of Insurance 3 * <--]]>
+    </line>
+    <line>
+      <![CDATA[</br>-->  Attached Documents : DCC * <--]]>
+    </line>
+    <line>
+      <![CDATA[</br>-->  Attached Documents : Transfer of Land * <--]]>
+    </line>
+    <line>
+      <![CDATA[<br><Strong><font color=#009000>--> Verified number of documents Attached:4 Verify the above documents list <--</font></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><Strong><font color=#009000>--> First Name and Last Name is confirmed <--</font></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> Package Created Successfully!! <--]]>
+    </line>
+    <line>
+      <![CDATA[</br><br><Strong><font color=#008000>Pass</font></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 18. Open : https://www.mailinator.com/</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 19. Enter email Address </strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> Enter Email Address :GJZz@mailinator.com <---]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 20. Click on GO! </strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> Received the email from the IBM Digital Acceptance!! <--]]>
+    </line>
+    <line>
+      <![CDATA[</br><br><Strong><font color=#008000>Pass</font></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 21. Click on Email from IBM Digital Acceptance </strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 22. Click on Goto My Documents </strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 23. Click on Accept button </strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 24. Click on Request SMS Authentication Code button or link </strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 25. Enter OTP  </strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 26. Click on Authentication Button </strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 27. Click on View Documents Button </strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 28. Click on Back To Loan Documents Button </strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 29. Click on Sign Online Button </strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 30. Click on Click to Sign</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 31. Click on OK button to verify the Sign</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 32. Click on Return Home Button</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 33. Upload the required documents</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>clicked on printed signed]]>
+    </line>
+    <line>
+      <![CDATA[</br>clicked on ready to upload]]>
+    </line>
+    <line>
+      <![CDATA[</br>sends the file]]>
+    </line>
+    <line>
+      <![CDATA[</br>Documents Uploaded]]>
+    </line>
+    <line>
+      <![CDATA[</br>clicked on cancel button]]>
+    </line>
+    <line>
+      <![CDATA[</br>clicked on printed signed]]>
+    </line>
+    <line>
+      <![CDATA[</br>clicked on ready to upload]]>
+    </line>
+    <line>
+      <![CDATA[</br>sends the file]]>
+    </line>
+    <line>
+      <![CDATA[</br>Documents Uploaded]]>
+    </line>
+    <line>
+      <![CDATA[</br>clicked on cancel button]]>
+    </line>
+    <line>
+      <![CDATA[</br>clicked on printed signed]]>
+    </line>
+    <line>
+      <![CDATA[</br>clicked on ready to upload]]>
+    </line>
+    <line>
+      <![CDATA[</br>sends the file]]>
+    </line>
+    <line>
+      <![CDATA[</br>Documents Uploaded]]>
+    </line>
+    <line>
+      <![CDATA[</br>clicked on cancel button]]>
+    </line>
+    <line>
+      <![CDATA[</br>clicked on printed signed]]>
+    </line>
+    <line>
+      <![CDATA[</br>clicked on ready to upload]]>
+    </line>
+    <line>
+      <![CDATA[</br>sends the file]]>
+    </line>
+    <line>
+      <![CDATA[</br>Documents Uploaded]]>
+    </line>
+    <line>
+      <![CDATA[</br>clicked on cancel button]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 34. Click on submit loan Documents</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>Thank you for signing your documents, FirstnamemlOH LastnameMOLj!]]>
+    </line>
+    <line>
+      <![CDATA[</br>Complete]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> Signed the document Successfully!! and Status changed <--]]>
+    </line>
+    <line>
+      <![CDATA[</br><br><Strong><font color=#008000>Pass</font></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>package name :Packagereference_fgmU]]>
+    </line>
+    <line>
+      <![CDATA[</br>Packagereference_fgmU]]>
+    </line>
+    <line>
+      <![CDATA[</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>--> status updated successfully!! <--]]>
+    </line>
+    <line>
+      <![CDATA[</br><br><Strong><font color=#008000>Pass</font></strong></br>]]>
+    </line>
+  </reporter-output>
+  <suite name="E-Signature - Test Suite 1" duration-ms="894630" started-at="2018-12-31T09:52:53Z" finished-at="2018-12-31T10:07:47Z">
+    <groups>
+    </groups>
+    <test name="Create a package using IBM Digital Contracts Demo v. 1 workflow  borrowe with Guarantor and relationship manager:: 01" duration-ms="894630" started-at="2018-12-31T09:52:53Z" finished-at="2018-12-31T10:07:47Z">
+      <class name="com.index.GeneralIndex">
+        <test-method status="PASS" signature="fetchSuiteConfiguration(org.testng.ITestContext)[pri:0, instance:com.index.GeneralIndex@5c7fa833]" name="fetchSuiteConfiguration" is-config="true" duration-ms="13" started-at="2018-12-31T09:52:53Z" finished-at="2018-12-31T09:52:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@e45f292]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchSuiteConfiguration -->
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.index.GeneralIndex@5c7fa833]" name="setUp" is-config="true" duration-ms="15106" started-at="2018-12-31T09:52:53Z" finished-at="2018-12-31T09:53:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.index.GeneralIndex.TC_DB_01()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@e45f292]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC_DB_01()[pri:0, instance:com.index.GeneralIndex@5c7fa833]" name="TC_DB_01" duration-ms="868561" started-at="2018-12-31T09:53:08Z" finished-at="2018-12-31T10:07:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<strong> <h3 style="color:DarkViolet"> To verify that user is able to login with valid credentials</h3> </strong>]]>
+            </line>
+            <line>
+              <![CDATA[<strong> <h3 style="color:DarkViolet"> --------------------------------------------------------------------------</h3> </strong>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 1. open : https://go-env-syd9.clickandsign.net:19443/dashboard/</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--->  Home page is open  <---]]>
+            </line>
+            <line>
+              <![CDATA[</br><br><Strong><font color=#008000>Pass</font></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 2. Enter Username</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> Enter Username :sy1-dev09-owner@e-signsolutions.com<---]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 3. Enter Password</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> Enter password :N#abe7dd95b55c1d635349395d8d9244<---]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 4. Click on Login Button</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> clicked on Login Button <---]]>
+            </line>
+            <line>
+              <![CDATA[</br>Logged in successfully!!]]>
+            </line>
+            <line>
+              <![CDATA[</br><br><Strong><font color=#008000>Pass</font></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 5. Select the Workflow</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> Selected the work Flow:IBM Digital Contracts Demo v. 1 <---]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 6. Click on Create button</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> clicked on Create Button <---]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 7. Enter Package Reference</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> Enter Packagereference :Packagereference_fgmU <---]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 8. Enter First Name</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> Enter First Name :FirstnamemlOH <---]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 9. Enter Last Name</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> Enter Last Name :LastnameMOLj <---]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 10. Enter Email Address</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> Enter Email Address :GJZz@mailinator.com <---]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 11. Enter Phone Number</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> Enter Phone Number : +61444444444 <---]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 12. Select WAFR Attachments</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>Number of Documents Attached :4]]>
+            </line>
+            <line>
+              <![CDATA[</br>Number of Options for the Attachment :5]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 13. Click on Create Button</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> clicked on Create Button <---]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 14. Click on Cloud Service Agreement</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> clicked on Cloud Service Aggrement <---]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 15. Upload the Cloud Service Agreement</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> Uploaded the Aggrement <---]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 16. Click on SendNow Button</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> Clicked on SendNow button <---]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 17. Confirm the package with valid details</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><Strong><font color=#009000>--> package name is confirmed <--</font></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>-->  Attached Documents : Certificate of Insurance 1 * <--]]>
+            </line>
+            <line>
+              <![CDATA[</br>-->  Attached Documents : Certificate of Insurance 3 * <--]]>
+            </line>
+            <line>
+              <![CDATA[</br>-->  Attached Documents : DCC * <--]]>
+            </line>
+            <line>
+              <![CDATA[</br>-->  Attached Documents : Transfer of Land * <--]]>
+            </line>
+            <line>
+              <![CDATA[<br><Strong><font color=#009000>--> Verified number of documents Attached:4 Verify the above documents list <--</font></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><Strong><font color=#009000>--> First Name and Last Name is confirmed <--</font></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> Package Created Successfully!! <--]]>
+            </line>
+            <line>
+              <![CDATA[</br><br><Strong><font color=#008000>Pass</font></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 18. Open : https://www.mailinator.com/</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 19. Enter email Address </strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> Enter Email Address :GJZz@mailinator.com <---]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 20. Click on GO! </strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> Received the email from the IBM Digital Acceptance!! <--]]>
+            </line>
+            <line>
+              <![CDATA[</br><br><Strong><font color=#008000>Pass</font></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 21. Click on Email from IBM Digital Acceptance </strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 22. Click on Goto My Documents </strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 23. Click on Accept button </strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 24. Click on Request SMS Authentication Code button or link </strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 25. Enter OTP  </strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 26. Click on Authentication Button </strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 27. Click on View Documents Button </strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 28. Click on Back To Loan Documents Button </strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 29. Click on Sign Online Button </strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 30. Click on Click to Sign</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 31. Click on OK button to verify the Sign</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 32. Click on Return Home Button</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 33. Upload the required documents</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>clicked on printed signed]]>
+            </line>
+            <line>
+              <![CDATA[</br>clicked on ready to upload]]>
+            </line>
+            <line>
+              <![CDATA[</br>sends the file]]>
+            </line>
+            <line>
+              <![CDATA[</br>Documents Uploaded]]>
+            </line>
+            <line>
+              <![CDATA[</br>clicked on cancel button]]>
+            </line>
+            <line>
+              <![CDATA[</br>clicked on printed signed]]>
+            </line>
+            <line>
+              <![CDATA[</br>clicked on ready to upload]]>
+            </line>
+            <line>
+              <![CDATA[</br>sends the file]]>
+            </line>
+            <line>
+              <![CDATA[</br>Documents Uploaded]]>
+            </line>
+            <line>
+              <![CDATA[</br>clicked on cancel button]]>
+            </line>
+            <line>
+              <![CDATA[</br>clicked on printed signed]]>
+            </line>
+            <line>
+              <![CDATA[</br>clicked on ready to upload]]>
+            </line>
+            <line>
+              <![CDATA[</br>sends the file]]>
+            </line>
+            <line>
+              <![CDATA[</br>Documents Uploaded]]>
+            </line>
+            <line>
+              <![CDATA[</br>clicked on cancel button]]>
+            </line>
+            <line>
+              <![CDATA[</br>clicked on printed signed]]>
+            </line>
+            <line>
+              <![CDATA[</br>clicked on ready to upload]]>
+            </line>
+            <line>
+              <![CDATA[</br>sends the file]]>
+            </line>
+            <line>
+              <![CDATA[</br>Documents Uploaded]]>
+            </line>
+            <line>
+              <![CDATA[</br>clicked on cancel button]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 34. Click on submit loan Documents</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>Thank you for signing your documents, FirstnamemlOH LastnameMOLj!]]>
+            </line>
+            <line>
+              <![CDATA[</br>Complete]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> Signed the document Successfully!! and Status changed <--]]>
+            </line>
+            <line>
+              <![CDATA[</br><br><Strong><font color=#008000>Pass</font></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>package name :Packagereference_fgmU]]>
+            </line>
+            <line>
+              <![CDATA[</br>Packagereference_fgmU]]>
+            </line>
+            <line>
+              <![CDATA[</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>--> status updated successfully!! <--]]>
+            </line>
+            <line>
+              <![CDATA[</br><br><Strong><font color=#008000>Pass</font></strong></br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_DB_01 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.index.GeneralIndex@5c7fa833]" name="tearDown" is-config="true" duration-ms="10935" started-at="2018-12-31T10:07:36Z" finished-at="2018-12-31T10:07:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_DB_01 status=SUCCESS method=GeneralIndex.TC_DB_01()[pri:0, instance:com.index.GeneralIndex@5c7fa833] output=<strong> <h3 style="color:DarkViolet"> To verify that user is able to login with valid credentials</h3> </strong>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.index.GeneralIndex -->
+    </test> <!-- Create a package using IBM Digital Contracts Demo v. 1 workflow  borrowe with Guarantor and relationship manager:: 01 -->
+  </suite> <!-- E-Signature - Test Suite 1 -->
+</testng-results>
