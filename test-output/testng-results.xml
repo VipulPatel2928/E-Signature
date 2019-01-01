@@ -56,25 +56,25 @@
       <![CDATA[<br><strong>Step 7. Enter Package Reference</strong></br>]]>
     </line>
     <line>
-      <![CDATA[</br>--> Enter Packagereference :Packagereference_fgmU <---]]>
+      <![CDATA[</br>--> Enter Packagereference :Packagereference_daDO <---]]>
     </line>
     <line>
       <![CDATA[<br><strong>Step 8. Enter First Name</strong></br>]]>
     </line>
     <line>
-      <![CDATA[</br>--> Enter First Name :FirstnamemlOH <---]]>
+      <![CDATA[</br>--> Enter First Name :FirstnameouZO <---]]>
     </line>
     <line>
       <![CDATA[<br><strong>Step 9. Enter Last Name</strong></br>]]>
     </line>
     <line>
-      <![CDATA[</br>--> Enter Last Name :LastnameMOLj <---]]>
+      <![CDATA[</br>--> Enter Last Name :LastnamesOkF <---]]>
     </line>
     <line>
       <![CDATA[<br><strong>Step 10. Enter Email Address</strong></br>]]>
     </line>
     <line>
-      <![CDATA[</br>--> Enter Email Address :GJZz@mailinator.com <---]]>
+      <![CDATA[</br>--> Enter Email Address :8k60@mailinator.com <---]]>
     </line>
     <line>
       <![CDATA[<br><strong>Step 11. Enter Phone Number</strong></br>]]>
@@ -152,7 +152,7 @@
       <![CDATA[<br><strong>Step 19. Enter email Address </strong></br>]]>
     </line>
     <line>
-      <![CDATA[</br>--> Enter Email Address :GJZz@mailinator.com <---]]>
+      <![CDATA[</br>--> Enter Email Address :8k60@mailinator.com <---]]>
     </line>
     <line>
       <![CDATA[<br><strong>Step 20. Click on GO! </strong></br>]]>
@@ -260,13 +260,10 @@
       <![CDATA[</br>Documents Uploaded]]>
     </line>
     <line>
-      <![CDATA[</br>clicked on cancel button]]>
-    </line>
-    <line>
       <![CDATA[<br><strong>Step 34. Click on submit loan Documents</strong></br>]]>
     </line>
     <line>
-      <![CDATA[</br>Thank you for signing your documents, FirstnamemlOH LastnameMOLj!]]>
+      <![CDATA[</br>Thank you for signing your documents, FirstnameouZO LastnamesOkF!]]>
     </line>
     <line>
       <![CDATA[</br>Complete]]>
@@ -278,10 +275,10 @@
       <![CDATA[</br><br><Strong><font color=#008000>Pass</font></strong></br>]]>
     </line>
     <line>
-      <![CDATA[</br>package name :Packagereference_fgmU]]>
+      <![CDATA[</br>package name :Packagereference_daDO]]>
     </line>
     <line>
-      <![CDATA[</br>Packagereference_fgmU]]>
+      <![CDATA[</br>Packagereference_daDO]]>
     </line>
     <line>
       <![CDATA[</br>]]>
@@ -293,12 +290,12 @@
       <![CDATA[</br><br><Strong><font color=#008000>Pass</font></strong></br>]]>
     </line>
   </reporter-output>
-  <suite name="E-Signature - Test Suite 1" duration-ms="894630" started-at="2018-12-31T09:52:53Z" finished-at="2018-12-31T10:07:47Z">
+  <suite name="E-Signature - Test Suite 1" duration-ms="900350" started-at="2019-01-01T09:43:30Z" finished-at="2019-01-01T09:58:30Z">
     <groups>
     </groups>
-    <test name="Create a package using IBM Digital Contracts Demo v. 1 workflow  borrowe with Guarantor and relationship manager:: 01" duration-ms="894630" started-at="2018-12-31T09:52:53Z" finished-at="2018-12-31T10:07:47Z">
+    <test name="Create a package using IBM Digital Contracts Demo v. 1 workflow  borrowe with Guarantor and relationship manager:: 01" duration-ms="900350" started-at="2019-01-01T09:43:30Z" finished-at="2019-01-01T09:58:30Z">
       <class name="com.index.GeneralIndex">
-        <test-method status="PASS" signature="fetchSuiteConfiguration(org.testng.ITestContext)[pri:0, instance:com.index.GeneralIndex@5c7fa833]" name="fetchSuiteConfiguration" is-config="true" duration-ms="13" started-at="2018-12-31T09:52:53Z" finished-at="2018-12-31T09:52:53Z">
+        <test-method status="PASS" signature="fetchSuiteConfiguration(org.testng.ITestContext)[pri:0, instance:com.index.GeneralIndex@5c7fa833]" name="fetchSuiteConfiguration" is-config="true" duration-ms="14" started-at="2019-01-01T09:43:30Z" finished-at="2019-01-01T09:43:30Z">
           <params>
             <param index="0">
               <value>
@@ -309,7 +306,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fetchSuiteConfiguration -->
-        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.index.GeneralIndex@5c7fa833]" name="setUp" is-config="true" duration-ms="15106" started-at="2018-12-31T09:52:53Z" finished-at="2018-12-31T09:53:08Z">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.index.GeneralIndex@5c7fa833]" name="setUp" is-config="true" duration-ms="16541" started-at="2019-01-01T09:43:30Z" finished-at="2019-01-01T09:43:46Z">
           <params>
             <param index="0">
               <value>
@@ -325,7 +322,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="TC_DB_01()[pri:0, instance:com.index.GeneralIndex@5c7fa833]" name="TC_DB_01" duration-ms="868561" started-at="2018-12-31T09:53:08Z" finished-at="2018-12-31T10:07:36Z">
+        <test-method status="PASS" signature="TC_DB_01()[pri:0, instance:com.index.GeneralIndex@5c7fa833]" name="TC_DB_01" duration-ms="872778" started-at="2019-01-01T09:43:46Z" finished-at="2019-01-01T09:58:19Z">
           <reporter-output>
             <line>
               <![CDATA[<strong> <h3 style="color:DarkViolet"> To verify that user is able to login with valid credentials</h3> </strong>]]>
@@ -382,25 +379,25 @@
               <![CDATA[<br><strong>Step 7. Enter Package Reference</strong></br>]]>
             </line>
             <line>
-              <![CDATA[</br>--> Enter Packagereference :Packagereference_fgmU <---]]>
+              <![CDATA[</br>--> Enter Packagereference :Packagereference_daDO <---]]>
             </line>
             <line>
               <![CDATA[<br><strong>Step 8. Enter First Name</strong></br>]]>
             </line>
             <line>
-              <![CDATA[</br>--> Enter First Name :FirstnamemlOH <---]]>
+              <![CDATA[</br>--> Enter First Name :FirstnameouZO <---]]>
             </line>
             <line>
               <![CDATA[<br><strong>Step 9. Enter Last Name</strong></br>]]>
             </line>
             <line>
-              <![CDATA[</br>--> Enter Last Name :LastnameMOLj <---]]>
+              <![CDATA[</br>--> Enter Last Name :LastnamesOkF <---]]>
             </line>
             <line>
               <![CDATA[<br><strong>Step 10. Enter Email Address</strong></br>]]>
             </line>
             <line>
-              <![CDATA[</br>--> Enter Email Address :GJZz@mailinator.com <---]]>
+              <![CDATA[</br>--> Enter Email Address :8k60@mailinator.com <---]]>
             </line>
             <line>
               <![CDATA[<br><strong>Step 11. Enter Phone Number</strong></br>]]>
@@ -478,7 +475,7 @@
               <![CDATA[<br><strong>Step 19. Enter email Address </strong></br>]]>
             </line>
             <line>
-              <![CDATA[</br>--> Enter Email Address :GJZz@mailinator.com <---]]>
+              <![CDATA[</br>--> Enter Email Address :8k60@mailinator.com <---]]>
             </line>
             <line>
               <![CDATA[<br><strong>Step 20. Click on GO! </strong></br>]]>
@@ -586,13 +583,10 @@
               <![CDATA[</br>Documents Uploaded]]>
             </line>
             <line>
-              <![CDATA[</br>clicked on cancel button]]>
-            </line>
-            <line>
               <![CDATA[<br><strong>Step 34. Click on submit loan Documents</strong></br>]]>
             </line>
             <line>
-              <![CDATA[</br>Thank you for signing your documents, FirstnamemlOH LastnameMOLj!]]>
+              <![CDATA[</br>Thank you for signing your documents, FirstnameouZO LastnamesOkF!]]>
             </line>
             <line>
               <![CDATA[</br>Complete]]>
@@ -604,10 +598,10 @@
               <![CDATA[</br><br><Strong><font color=#008000>Pass</font></strong></br>]]>
             </line>
             <line>
-              <![CDATA[</br>package name :Packagereference_fgmU]]>
+              <![CDATA[</br>package name :Packagereference_daDO]]>
             </line>
             <line>
-              <![CDATA[</br>Packagereference_fgmU]]>
+              <![CDATA[</br>Packagereference_daDO]]>
             </line>
             <line>
               <![CDATA[</br>]]>
@@ -620,7 +614,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- TC_DB_01 -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.index.GeneralIndex@5c7fa833]" name="tearDown" is-config="true" duration-ms="10935" started-at="2018-12-31T10:07:36Z" finished-at="2018-12-31T10:07:47Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.index.GeneralIndex@5c7fa833]" name="tearDown" is-config="true" duration-ms="11001" started-at="2019-01-01T09:58:19Z" finished-at="2019-01-01T09:58:30Z">
           <params>
             <param index="0">
               <value>

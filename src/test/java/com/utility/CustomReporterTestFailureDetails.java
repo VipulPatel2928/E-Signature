@@ -926,7 +926,7 @@ public class CustomReporterTestFailureDetails extends CustomReporterListener {
 	/** Finishes HTML stream */
 	protected void endHtml(PrintWriter out) {
 		//out.println("<center> Report customized by KiwiQA </center><br/><br/>");
-		out.println("<tr bgcolor='SkyBlue'><td align='right' colspan='4'><center><b><i>Report customized by KiwiQA </i><b><center></center></b></b></center></td></tr>");
+		out.println("<tr bgcolor='SkyBlue'><td align='right' colspan='4'><center><b><i>Report customized by Infovinity </i><b><center></center></b></b></center></td></tr>");
 		out.println("</body></html>");
 	}
 
